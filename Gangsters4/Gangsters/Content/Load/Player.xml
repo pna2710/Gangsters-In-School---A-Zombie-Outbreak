@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Player>
+  <Image>
+    <Path>Character/CharacterAnimations2</Path>  
+    <Position>
+    <X>30</X>
+    <Y>294</Y>
+  </Position>
+    <Health>5</Health>
+    <Effects>SpriteSheetEffect</Effects>
+  </Image>
+  <MoveSpeed>150</MoveSpeed>
+</Player>

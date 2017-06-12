@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<SplashScreen>
+<Image>
+<Path>SplashScreen/Image</Path>
+<IsActive>true</IsActive>
+</Image>
+</SplashScreen>

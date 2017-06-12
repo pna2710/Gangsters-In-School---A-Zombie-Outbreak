@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ControlsInfo>
+  <Image>
+    <Effects>FadeEffect</Effects>
+    <Path>ConstrolsInfo/controls</Path>
+    <IsActive>true</IsActive>
+  </Image>
+</ControlsInfo> 

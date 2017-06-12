@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Cenarios>
+  <Image>
+    <Effects>FadeEffect</Effects>
+    <Path>SplashScreen/pressEnter</Path>
+    <Position>
+      <X>-7</X>
+    </Position>
+    <IsActive>true</IsActive>
+  </Image>
+</Cenarios>

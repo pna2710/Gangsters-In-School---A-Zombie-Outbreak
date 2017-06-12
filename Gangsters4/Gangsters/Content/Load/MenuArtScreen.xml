@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<MenuArtScreen>
+  <Image>
+    <Path>Intro/Intro</Path>
+    <IsActive>true</IsActive>
+    <Position>
+    <X>10</X>
+    <Y>11</Y>
+  </Position>
+  </Image>
+</MenuArtScreen>

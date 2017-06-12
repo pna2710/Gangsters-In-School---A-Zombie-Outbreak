@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Zombie>
+  <Image>
+    <Path>Zombie/zombies2</Path>
+    <Health>3</Health>
+    <Effects>SpriteSheetEffect</Effects>
+  </Image>
+  <MoveSpeed>150</MoveSpeed>
+</Zombie>

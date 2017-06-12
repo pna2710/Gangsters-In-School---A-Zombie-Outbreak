@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Cenarios>
+  <Image>
+    <Path>Intro/Intro</Path>
+    <IsActive>true</IsActive>
+  </Image>
+</Cenarios>

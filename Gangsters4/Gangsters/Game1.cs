@@ -71,7 +71,7 @@ namespace Gangsters
             vidRectangle = new Rectangle(GraphicsDevice.Viewport.X, GraphicsDevice.Viewport.Y, GraphicsDevice.Viewport.Width, GraphicsDevice.Viewport.Height);
           
             vidPlayer = new VideoPlayer();
-  vidPlayer.Play(Vid);
+            vidPlayer.Play(Vid);
             // Create a new SpriteBatch, which can be used to draw textures.
             spriteBatch = new SpriteBatch(GraphicsDevice);
             ScreenManager.Instance.GraphicsDevice = GraphicsDevice;

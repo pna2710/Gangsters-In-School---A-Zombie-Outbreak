@@ -49,7 +49,7 @@ namespace Gangsters
 
         // public List bullets = new List();
         static public float attackTimer1 = 0f, attackTimer2 = 0f;
-        public const float attackCooldown1 = 1000f, attackCooldown2 = 500f;
+        public const float attackCooldown1 = 3000f, attackCooldown2 = 1500f;
         public int countattack;
         static public int opcaopersonagem = 0;
         int i, o, stage = 1;
@@ -287,7 +287,7 @@ namespace Gangsters
 
             for (int i = 0; i < ListaZombies1.Count; i++)
                 {
-                    if (Player.Image.Position.X - ListaZombies1[i].Image.Position.X < 100 && Player.Image.Position.X - ListaZombies1[i].Image.Position.X > -100)
+                    if (Player.Image.Position.X - ListaZombies1[i].Image.Position.X < 150 && Player.Image.Position.X - ListaZombies1[i].Image.Position.X > -150)
                     {
                         if (Player.isAttacking == true)
                         {
